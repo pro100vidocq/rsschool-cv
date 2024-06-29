@@ -17,7 +17,7 @@
  - **University:** 
     + Odesa Mechnikov National University, specialization computer systems and networks
  - **Courses:**
-    + The Rolling Scopes School, JS/FE Pre-School (in process..) 
+    + The Rolling Scopes School, JS/FE Pre-School (study..) 
 ## Languages
  - Ukrainian
  - Russian
