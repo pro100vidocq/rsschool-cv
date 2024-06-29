@@ -10,9 +10,9 @@
 ## Skills
  > in development
 ## Code Example
- >
+ >some code
 ## Experience
- >
+ >some Experience
 ## Education
  - **University:** 
     + Odesa Mechnikov National University, specialization computer systems and networks
