@@ -11,8 +11,13 @@
 
 >
 
-    I am an experienced IT Support Engineer with 6+ years of experience in providing technical assistance to users. I have a proven track record of successfully resolving customer issues and improving customer satisfaction by leveraging my expertise in troubleshooting, network administration, and customer service. I am also highly skilled in configuring and maintaining hardware and software, as well as providing training and support for end-users.
-    Currently, I am deepening my knowledge of JavaScript, HTML, and CSS through the JavaScript / Front-End Developer course from The Rolling Scopes School. I am also completing several additional courses on the Udemy platform. In the future, I plan to learn a backend programming language to become a well-rounded Full-Stack Developer.
+    I am an experienced IT Support Engineer with 6+ years of experience in providing technical assistance to users.
+    I have a proven track record of successfully resolving customer issues and improving customer satisfaction
+    by leveraging my expertise in troubleshooting, network administration, and customer service.
+    I am also highly skilled in configuring and maintaining hardware and software, as well as providing training and support for end-users.
+    Currently, I am deepening my knowledge of JavaScript, HTML, and CSS through the JavaScript / Front-End Developer
+    course from The Rolling Scopes School. I am also completing several additional courses on the Udemy platform. In the future,
+    I plan to learn a backend programming language to become a well-rounded Full-Stack Developer.
 
 ## Skills
 
@@ -29,10 +34,10 @@
 
 >
 
-`` const myName = "Viktor";
-const myCity = "Ostróda";
-const myIntroduce = `My name: ${myName}\nI live in: ${myCity}`;
-console.log(myIntroduce); ``
+`const myName = "Viktor";`
+`const myCity = "Ostróda";`
+`` const myIntroduce = `My name: ${myName}\nI live in: ${myCity}`; ``
+`console.log(myIntroduce);`
 
 ## Experience
 
@@ -40,7 +45,7 @@ console.log(myIntroduce); ``
 
 - LLC "TAK" service center, Ukraine
   - IT Support Engineer (6 years)
-- Ostroda Yacht Sp. z o.o.
+- Ostroda Yacht Sp. z o.o., Poland
   - specialist in assembly and adjustment of electrical elements of motor yachts (8 years)
 
 ## Education
