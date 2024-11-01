@@ -5,7 +5,7 @@
 - **Locacion:** Ostroda, Poland
 - **Email:** <pro100vity@gmail.com>
 - **GityHub:** [pro100vidocq](https://github.com/pro100vidocq)
-- **Discord** [@pro100vidocq](discordapp.com/users/797169802669981746)
+- **Discord** [@pro100vidocq](https://discordapp.com/users/797169802669981746)
 
 ## Summary
 
