@@ -35,10 +35,12 @@
 
 >
 
-`const myName = "Viktor";`
-`const myCity = "Ostróda";`
-`` const myIntroduce = `My name: ${myName}\nI live in: ${myCity}`; ``
-`console.log(myIntroduce);`
+```
+const myName = "Viktor";
+const myCity = "Ostróda";
+const myIntroduce = `My name: ${myName}\nI live in: ${myCity}`;
+console.log(myIntroduce);
+```
 
 ## Experience
 
