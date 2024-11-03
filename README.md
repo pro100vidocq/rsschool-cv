@@ -1,3 +1,5 @@
 # rsschool-cv
 
 https://pro100vidocq.github.io/rsschool-cv/cv
+
+https://pro100vidocq.github.io/rsschool-cv/
